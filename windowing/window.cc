@@ -1,7 +1,7 @@
 // (c) scratchapixel - 2024
 // Distributed under the terms of the CC BY-NC-ND 4.0 License.
 // https://creativecommons.org/licenses/by-nc-nd/4.0/
-// clang++ -Wall -Wextra -std=c++23 -luser32 -lgdi32 -o 3d-nav-controls.exe 3d-nav-controls.cc
+// clang++ -Wall -Wextra -std=c++23 -luser32 -lgdi32 -o window.exe window.cc
 
 #define UNICODE
 #include <windows.h>
